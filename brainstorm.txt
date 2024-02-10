@@ -1,0 +1,32 @@
+BrainStorm Session 1
+
+## PAGES
+
+- Homepage
+- Portal
+- High Net-worth
+
+## DESIGNS
+
+- Single navbar, convert to icons.
+- Carousels for largre options
+- Rounded corners
+- Consistent icons
+- On hover animations
+
+### HOMEPAGE
+
+- Remove stock images
+- Cards for each of the options
+- Keep it ad-only, no portal or options
+- Put login in the actual nav
+
+### PORTAL
+
+- Centralize for Personal, NRI, SME, etc.
+- Animate options appearing/disappearing for category change.
+
+### HIGH NET-WORTH
+
+- Gold coin threejs
+- Black and gold color scheme
